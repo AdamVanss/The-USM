@@ -59,7 +59,7 @@ Inspect the first setup cell in each notebook for the exact `pip install` comman
 
 If you use this work, please cite:
 
-> Adam Mazouar. *The Universal Semantic Manifold: Explicit Semantic Geometry from Validation to Scale.* 2026. Available at https://github.com/adammazouar/Research-LLM
+> Adam Mazouar. *The Universal Semantic Manifold: Explicit Semantic Geometry from Validation to Scale.* 2026. Available at https://github.com/AdamVanss/The-USM
 
 ---
 
